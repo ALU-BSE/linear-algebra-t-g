@@ -1,4 +1,4 @@
-# Example arrays
+# Initializing Example arrays
 Prices = [[300, 500],
           [1000, 120.85]]
 
